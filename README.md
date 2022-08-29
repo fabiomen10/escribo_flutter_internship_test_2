@@ -5,7 +5,7 @@ The [Flutter](https://flutter.dev/) template, configured for [Gitpod](https://ww
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-flutter)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/fabiomen10/escribo_flutter_internship_test_2)
 
 ## Get Started With Your Own Project
 
